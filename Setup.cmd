@@ -20,5 +20,3 @@ for /f "tokens=*" %%B in ('dir /b /o:n *.cmd') do (
 
 echo Script completed successfully.
 exit
-=======
->>>>>>> 3c479efe17479d82471b0fc670d9eb43f01e5740
